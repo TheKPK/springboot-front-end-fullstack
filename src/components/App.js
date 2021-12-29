@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import Appbar from './Appbar';
 import Student from './Student';
 
